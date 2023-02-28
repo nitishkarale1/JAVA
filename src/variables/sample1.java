@@ -22,7 +22,7 @@ public class sample1
 		
 		//3.variable usage
 		
-		System.out.println(Name);  //info resuse
+		System.out.println(Name);  //info reuse
 		System.out.println(Dept);
 		System.out.println(RollNum);
 		System.out.println(Percentage);
